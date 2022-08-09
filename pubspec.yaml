@@ -17,7 +17,7 @@ dependencies:
   # Used to compute and create Tonal Palette theme colors.
   # Flutter SDK from 2.10.0 stable also uses and depends on this package.
   # Using ^0.1.4 because Flutter stable 3.0.0 uses it. Latest release is 0.1.5.
-  material_color_utilities: ^0.1.4
+  material_color_utilities: ^0.2.0 # modified
 
 dev_dependencies:
   flutter_test:
